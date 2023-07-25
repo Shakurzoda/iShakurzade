@@ -30,7 +30,7 @@
    <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" height="30">
 </a>
 <a href='https://www.figma.com/' target='_blank' alt='Figma'>
-   <img src="https://iconape.com/figma-3-logo-icon-svg-png.html" height="30">
+   <img src="https://iconape.com/wp-content/png_logo_vector/figma-logo.png" height="30">
 </a>
 
 
