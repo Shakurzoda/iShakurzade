@@ -5,7 +5,7 @@
 
 #### Frontend: 
 
-<a href='https://html5book.ru/html-html5/ target='_blank' alt='HTML'>
+<a href='https://html5book.ru/html-html5/' target='_blank' alt='HTML'>
    <img src="https://iconape.com/html-5-3-logo-icon-svg-png.html" height="30">
 </a>
 <a href='https://html5book.ru/css-css3/' target='_blank' alt='CSS'>
