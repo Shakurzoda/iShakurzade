@@ -6,10 +6,10 @@
 #### Frontend: 
 
 <a href='https://html5book.ru/html-html5/' target='_blank' alt='HTML'>
-   <img src="https://iconape.com/wp-content/files/er/371108/svg/371108.svg" height="30">
+   <img src="https://iconape.com/wp-content/files/er/371108/svg/371108.svg" height="40">
 </a>
 <a href='https://html5book.ru/css-css3/' target='_blank' alt='CSS'>
-   <img src="https://iconape.com/wp-content/png_logo_vector/css-3-logo.png" height="30">
+   <img src="https://iconape.com/wp-content/png_logo_vector/css-3-logo.png" height="40">
 </a>
 <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' target='_blank' alt='JavaScript'>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30">
