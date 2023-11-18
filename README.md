@@ -1,9 +1,7 @@
 ## Hello there, I'm Farahmand!
-### Web-Developer
+### Frontend-Developer
 
-### My stack and tools:
-
-#### Frontend: 
+### My stack and tools: 
 
 <a href='https://html5book.ru/html-html5/' target='_blank' alt='HTML'>
    <img src="https://iconape.com/wp-content/files/er/371108/svg/371108.svg" height="39">
